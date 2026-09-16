@@ -6,7 +6,7 @@
 />
 
 <img
- src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FFFFFF&center=true&width=480&lines=C%2B%2B+%2F+Python+%2F+PHP;low-level+systems+%26+network+tools;fuck+ass+%E2%80%94+vibe+coder+%E2%9C%A8"
+ src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FFFFFF&center=true&width=480&lines=C%2B%2B+%2F+Python+%2F+PHP;low-level+systems+%26+network+tools;Cyber+Security+%E2%9C%A8"
  alt="typing"
 />
 
