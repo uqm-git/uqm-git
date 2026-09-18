@@ -1,13 +1,13 @@
 <div align="center">
 
 <img
- src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:111111,100:000000&height=220&section=header&text=uqm-git&fontSize=72&fontColor=ffffff&fontAlignY=55&animation=fadeIn&stroke=222222&strokeWidth=1"
- width="100%"
+src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,50:111111,100:000000&height=220&section=header&text=uqm-git&fontSize=72&fontColor=ffffff&fontAlignY=55&animation=fadeIn&stroke=222222&strokeWidth=1"
+width="100%"
 />
 
 <img
- src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FFFFFF&center=true&width=480&lines=C%2B%2B+%2F+Python+%2F+PHP;low-level+systems+%26+network+tools;Cyber+Security+%E2%9C%A8"
- alt="typing"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=1200&color=FFFFFF&center=true&width=480&lines=C%2B%2B+%2F+Python+%2F+PHP;low-level+systems+%26+network+tools;Cyber+Security+%E2%9C%A8"
+alt="typing"
 />
 
 </div>
@@ -18,11 +18,6 @@
   <img src="https://img.shields.io/badge/C++-00000F?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-00000F?style=for-the-badge&logo=gnubash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-00000F?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Neovim-00000F?style=for-the-badge&logo=neovim&logoColor=white"/>
 </div>
 
 <br/>
@@ -32,52 +27,6 @@
   <img src="https://img.shields.io/github/followers/uqm-git?style=for-the-badge&color=00000F&label=FOLLOWERS&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/github/stars/uqm-git?style=for-the-badge&color=00000F&label=STARS&logo=github&logoColor=white"/>
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-</div>
-
-<br/>
-
-## ⚡ Tech Stack
-
-<table align="center">
-<tr>
-<td align="center" width="120"><b>Languages</b></td>
-<td>
-<img src="https://img.shields.io/badge/C++-00000F?style=flat-square&logo=c%2B%2B&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-00000F?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/PHP-00000F?style=flat-square&logo=php&logoColor=white"/>
-<img src="https://img.shields.io/badge/Bash-00000F?style=flat-square&logo=gnubash&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Systems</b></td>
-<td>
-<img src="https://img.shields.io/badge/Linux-00000F?style=flat-square&logo=linux&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-00000F?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/CMake-00000F?style=flat-square&logo=cmake&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Security</b></td>
-<td>
-<img src="https://img.shields.io/badge/Wireshark-00000F?style=flat-square&logo=wireshark&logoColor=white"/>
-<img src="https://img.shields.io/badge/Burp_Suite-00000F?style=flat-square&logo=burpsuite&logoColor=white"/>
-<img src="https://img.shields.io/badge/Kali-00000F?style=flat-square&logo=kalilinux&logoColor=white"/>
-</td>
-</tr>
-<tr>
-<td align="center"><b>Tools</b></td>
-<td>
-<img src="https://img.shields.io/badge/Git-00000F?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Neovim-00000F?style=flat-square&logo=neovim&logoColor=white"/>
-<img src="https://img.shields.io/badge/GDB-00000F?style=flat-square&logo=gnu&logoColor=white"/>
-</td>
-</tr>
-</table>
 
 <br/>
 
@@ -98,26 +47,6 @@
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=uqm-git&background=000000&border=222222&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=uqm-git&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-</div>
-
-<br/>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
@@ -153,9 +82,11 @@
 <a href="https://github.com/uqm-git">
   <img src="https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
+
 <a href="#">
   <img src="https://img.shields.io/badge/Discord-00000F?style=for-the-badge&logo=discord&logoColor=white"/>
 </a>
+
 <a href="#">
   <img src="https://img.shields.io/badge/Matrix-00000F?style=for-the-badge&logo=matrix&logoColor=white"/>
 </a>
@@ -171,3 +102,5 @@
 <br/>
 
 <div align="center">
+
+</div>
