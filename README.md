@@ -36,24 +36,4 @@ alt="typing"
 
 <br/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uqm-git&show_icons=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=222222&hide_border=false"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uqm-git&layout=compact&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=222222"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uqm-git&background=000000&border=222222&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
-</div>
-
-<br/>
 
