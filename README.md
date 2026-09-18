@@ -19,12 +19,18 @@
   <img src="https://img.shields.io/badge/Python-00000F?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-00000F?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Linux-00000F?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bash-00000F?style=for-the-badge&logo=gnubash&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Docker-00000F?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Git-00000F?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Neovim-00000F?style=for-the-badge&logo=neovim&logoColor=white"/>
 </div>
 
 <br/>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=uqm-git&style=for-the-badge&color=00000F&label=PROFILE+VIEWS"/>
+  <img src="https://img.shields.io/github/followers/uqm-git?style=for-the-badge&color=00000F&label=FOLLOWERS&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/github/stars/uqm-git?style=for-the-badge&color=00000F&label=STARS&logo=github&logoColor=white"/>
 </div>
 
 <br/>
@@ -34,3 +40,134 @@
 </div>
 
 <br/>
+
+## ⚡ Tech Stack
+
+<table align="center">
+<tr>
+<td align="center" width="120"><b>Languages</b></td>
+<td>
+<img src="https://img.shields.io/badge/C++-00000F?style=flat-square&logo=c%2B%2B&logoColor=white"/>
+<img src="https://img.shields.io/badge/Python-00000F?style=flat-square&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/PHP-00000F?style=flat-square&logo=php&logoColor=white"/>
+<img src="https://img.shields.io/badge/Bash-00000F?style=flat-square&logo=gnubash&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Systems</b></td>
+<td>
+<img src="https://img.shields.io/badge/Linux-00000F?style=flat-square&logo=linux&logoColor=white"/>
+<img src="https://img.shields.io/badge/Docker-00000F?style=flat-square&logo=docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/CMake-00000F?style=flat-square&logo=cmake&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Security</b></td>
+<td>
+<img src="https://img.shields.io/badge/Wireshark-00000F?style=flat-square&logo=wireshark&logoColor=white"/>
+<img src="https://img.shields.io/badge/Burp_Suite-00000F?style=flat-square&logo=burpsuite&logoColor=white"/>
+<img src="https://img.shields.io/badge/Kali-00000F?style=flat-square&logo=kalilinux&logoColor=white"/>
+</td>
+</tr>
+<tr>
+<td align="center"><b>Tools</b></td>
+<td>
+<img src="https://img.shields.io/badge/Git-00000F?style=flat-square&logo=git&logoColor=white"/>
+<img src="https://img.shields.io/badge/Neovim-00000F?style=flat-square&logo=neovim&logoColor=white"/>
+<img src="https://img.shields.io/badge/GDB-00000F?style=flat-square&logo=gnu&logoColor=white"/>
+</td>
+</tr>
+</table>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+</div>
+
+<br/>
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=uqm-git&show_icons=true&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=222222&hide_border=false"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uqm-git&layout=compact&bg_color=000000&title_color=ffffff&text_color=aaaaaa&border_color=222222"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=uqm-git&background=000000&border=222222&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=aaaaaa&dates=555555"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=uqm-git&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=4"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+</div>
+
+<br/>
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<div align="center">
+
+<a href="https://github.com/uqm-git?tab=repositories">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=uqm-git&repo=NetPeek&bg_color=000000&title_color=ffffff&text_color=aaaaaa&icon_color=ffffff&border_color=222222"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+</div>
+
+<br/>
+
+## 📡 Connect
+
+<div align="center">
+
+<a href="https://github.com/uqm-git">
+  <img src="https://img.shields.io/badge/GitHub-00000F?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Discord-00000F?style=for-the-badge&logo=discord&logoColor=white"/>
+</a>
+<a href="#">
+  <img src="https://img.shields.io/badge/Matrix-00000F?style=for-the-badge&logo=matrix&logoColor=white"/>
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/dark.png" width="100%"/>
+</div>
+
+<br/>
+
+<div align="center">
